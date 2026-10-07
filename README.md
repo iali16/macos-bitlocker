@@ -1,4 +1,4 @@
-# macos-bitlocker-mount-
+# BitLocker-macOS
 
 Mount BitLocker-encrypted Windows drives on macOS (Apple Silicon) with **dislocker** + **ntfs-3g** on macFUSE — including the fix so **Finder shows files, not just folders**.
 
